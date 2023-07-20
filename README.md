@@ -2,41 +2,31 @@
 Grocery Bud is a simple and intuitive web application designed to help you manage your grocery shopping efficiently. With Grocery Bud, you can easily add items to your shopping list, edit existing items, delete items individually, and clear the entire list at once. The app is built using HTML, CSS, JavaScript, and JSON.
 
 ### Features
-###### Add Items: 
-You can quickly add grocery items to your list by entering the item name and clicking the "Add" button.
-
-###### Edit Items: 
-If you made a mistake or want to update the quantity of an item, simply click on the item you want to edit, modify the details, and save the changes.
-
-###### Delete Items:
-Remove items from your shopping list individually by clicking on the "Delete" icon next to each item.
-
-###### Clear All Items: 
-To start a new shopping list, there's a convenient "Clear All" button that allows you to remove all the items from the list at once.
+Add Items: You can quickly add grocery items to your list by entering the item name and clicking the "Add" button.
+Edit Items: If you made a mistake or want to update the quantity of an item, simply click on the item you want to edit, modify the details, and save the changes.
+Delete Items:Remove items from your shopping list individually by clicking on the "Delete" icon next to each item.
+Clear All Items: To start a new shopping list, there's a convenient "Clear All" button that allows you to remove all the items from the list at once.
 
 ## How to Use
 ###### Adding Items:
-
 Type the name of the grocery item you want to add in the input field.
 Click the "Add" button or press Enter to add the item to the list.
 
 ###### Editing Items:
-
 Locate the item you want to edit in the grocery list.
 Click on the item to enter edit mode.
 Modify the name or quantity of the item as needed.
 Press Enter or click outside the input field to save the changes.
 
 ###### Deleting Items:
-
 Find the item you wish to remove in the grocery list.
 Click on the "Delete" icon (usually represented by a trash can or cross) next to the item to remove it from the list.
 
 ###### Clearing All Items:
-
 If you want to clear the entire grocery list, click the "Clear All" button at the bottom of the list.
 A confirmation prompt may appear to confirm your action. Click "OK" to proceed with clearing the list or "Cancel" to abort.
-Technologies Used
+
+### Technologies Used
 Grocery Bud is built using the following technologies:
 
 HTML: Provides the structure and layout of the web page.
