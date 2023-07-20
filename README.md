@@ -11,17 +11,14 @@ Clear All Items: To start a new shopping list, there's a convenient "Clear All" 
 ###### Adding Items:
 Type the name of the grocery item you want to add in the input field.
 Click the "Add" button or press Enter to add the item to the list.
-
 ###### Editing Items:
 Locate the item you want to edit in the grocery list.
 Click on the item to enter edit mode.
 Modify the name or quantity of the item as needed.
 Press Enter or click outside the input field to save the changes.
-
 ###### Deleting Items:
 Find the item you wish to remove in the grocery list.
 Click on the "Delete" icon (usually represented by a trash can or cross) next to the item to remove it from the list.
-
 ###### Clearing All Items:
 If you want to clear the entire grocery list, click the "Clear All" button at the bottom of the list.
 A confirmation prompt may appear to confirm your action. Click "OK" to proceed with clearing the list or "Cancel" to abort.
@@ -29,10 +26,10 @@ A confirmation prompt may appear to confirm your action. Click "OK" to proceed w
 ### Technologies Used
 Grocery Bud is built using the following technologies:
 
-HTML: Provides the structure and layout of the web page.
-CSS: Styles the elements and enhances the visual appeal of the app.
-JavaScript: Enables dynamic interactions, such as adding, editing, and deleting items in the list.
-JSON: Stores the grocery list data in a structured format.
+###### HTML: Provides the structure and layout of the web page.
+###### CSS: Styles the elements and enhances the visual appeal of the app.
+###### JavaScript: Enables dynamic interactions, such as adding, editing, and deleting items in the list.
+###### JSON: Stores the grocery list data in a structured format.
 
 ## Installation
 To run Grocery Bud locally on your machine, follow these steps:
