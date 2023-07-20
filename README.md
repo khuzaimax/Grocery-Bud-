@@ -36,14 +36,11 @@ JSON: Stores the grocery list data in a structured format.
 
 ## Installation
 To run Grocery Bud locally on your machine, follow these steps:
-
 Clone this repository or download the source code as a ZIP file.
-
 Open the index.html file in your web browser.
-
 Start managing your grocery list efficiently with Grocery Bud!
 
-##### License
+## License
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code as you see fit. However, we do not take responsibility for any damages or issues caused by the use of this application.
 
 
